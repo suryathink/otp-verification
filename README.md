@@ -17,4 +17,6 @@ The OTP input fields have the following behavior:
 - The input cursor automatically moves to the next field after a digit is entered.
 - The input cursor moves to the previous field when the "Backspace" key is pressed.
 - The user can paste a 6-digit OTP in the input fields.
+- If the user pastes the OTP from the clipboard, it is auto-filling the input boxes
+
 
