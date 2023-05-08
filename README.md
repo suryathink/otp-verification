@@ -8,8 +8,8 @@
 3. Start the application by running `npm start`.
 4. Navigate to http://localhost:3000/ to see the application running.
 
-### What the code does
-This code creates a React component called `PhoneVerificationButton` which renders a button with text "Verify OTP". When the button is clicked, a popup appears asking the user to enter a 6 digit One-Time Password (OTP) to verify their phone number. The popup contains six input fields, each accepting one digit of the OTP, and a "Close" button to dismiss the popup.
+### What the code does?
+This code creates a React component called `PhoneVerificationButton` which renders a button with text "Verify OTP". When the button is clicked, a popup appears asking the user to enter a 6 digit One-Time Password (OTP) to verify their phone number. The popup contains six input fields, each accepting one digit of the OTP, and a "Verify" button to dismiss the popup.
 
 The OTP input fields have the following behavior:
 - The focus is set to the first input field when the popup is displayed.
