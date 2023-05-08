@@ -1,3 +1,5 @@
+
+<a href="https://otp-verification-umber.vercel.app/" target="_blank">Deployed Link</a>
 ## Code Documentation
 
 ### Instructions to run the code locally
